@@ -40,3 +40,4 @@ xattr
 yt-dlp
 waybackpy
 playwright
+megasdkrestclient
